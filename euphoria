@@ -1,0 +1,148 @@
+[dohtml] <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700, 800|Playfair+Display|Raleway:700, 800|Kristi|PT+Sans" rel="stylesheet">
+
+
+<div class="virgo">
+<div class="bg">
+<div class="img2">
+
+<div class="title">courage >>> </div></div>
+<div class="title1">kindness >>></div>
+<div class="body">
+
+  <fl> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut risus eros. </fl> Suspendisse dapibus, nisl ut viverra fermentum, tellus libero laoreet sem, nec fermentum eros neque in magna. Nam euismod metus eget est molestie, eu mattis nisi facilisis.<b> In tempor eros nisl, feugiat vestibulum augue faucibus et.</b> Nunc sit amet volutpat metus, eget vestibulum nunc. Vivamus malesuada nisi nec laoreet rutrum. Integer mattis iaculis massa nec iaculis.
+<p>
+  <i> Quisque rhoncus vestibulum lorem</i> , sed sodales odio molestie eu. Nulla egestas neque justo, mollis vulputate massa suscipit in. Sed porttitor tempus ultrices. Proin rutrum, magna eget condimentum malesuada, justo felis elementum sapien, at suscipit augue orci non ligula. Mauris ut eros vitae ante ornare vulputate. In quis dui eu enim tincidunt tincidunt. Quisque maximus sit amet sapien ac cursus. In facilisis turpis eget posuere ultricies. Sed non magna a mauris porta ultricies vel at odio.
+<p>
+  Curabitur elementum, <i2> tellus ut semper pretium </i2> , purus sem lacinia lacus, vel feugiat dolor magna eget libero. Fusce rutrum iaculis quam, a tempor ligula rhoncus sed. Vestibulum gravida erat consectetur commodo blandit. Praesent velit tortor, tincidunt a neque in, vulputate euismod nisi. Aenean volutpat turpis vel ex vestibulum, sit amet lobortis mi molestie. Etiam vitae neque consectetur, venenatis mauris nec, dignissim felis. Donec lorem magna, viverra non hendrerit eget, sodales non turpis.
+
+
+</div>
+</div>
+  <div class="tag"> <<< vestindo <a href="xxx">isto</a> >>> <<< com @username >>> </div> 
+</div><a style="font: bold 12px/20px open sans; opacity: .3; text-align:center; display: block; margin-top: 20px; margin-bottom: 40px;">npichu</a>
+
+
+<style type="text/css">
+ 
+ .virgo fl {
+    font-weight: 800;
+    font-family: open sans;
+    font-size: 12px; 
+    text-transform: uppercase;
+    background-color: var(--colorgrupo);
+   letter-spacing: 1px; 
+    color: #fff;
+    
+  }
+  
+
+.virgo .bg{
+  background: #fff;
+  border-left: solid 1px;  
+  border-right: solid 1px;
+  border-top: solid 1px;
+  border-color: var(--colorgrupo);
+  }
+ 
+  .virgo .tag {
+    color: #fff;
+    background: var(--colorgrupo);
+    width: 400px;
+    height: 10px;
+    font-size: 13px;
+    font-weight: 800;
+    font-family: Raleway;
+    margin-top: 10px; 
+    padding-right: 20px;
+     padding-bottom: 20px;
+     padding-top: 20px;
+    padding-left: 5px;
+    }
+
+
+.virgo {
+  width: 450px;
+  margin: auto;
+  --colorgrupo: #e59a8a; 
+ background: var(--colorgrupo);
+  padding: 25px;
+  border: solid 1px #ddd;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0;
+  margin-top:50px;
+
+}
+
+.virgo .title {
+ font: 40px/13px Raleway;
+  font-weight: 800;
+ text-align: center;
+ margin-bottom: 100px;
+padding: 230px 0px 0px 0px;
+color: #fff;
+   
+ 
+}
+
+.virgo .title1 {
+ font: 40px/13px Raleway;
+  font-weight: 700;
+ text-align: center;
+ padding: 0px 95px 8px 90px;
+filter:  progid:DXImageTransform.Microsoft.BasicImage(rotation=2); 
+ ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)"; 
+ -moz-transform: rotate(-180deg); 
+-o-transform: rotate(-180deg);  
+-webkit-transform: rotate(-180deg); 
+position: absolute;
+ color: var(--colorgrupo);
+
+}
+
+
+
+
+ 
+
+.virgo .img2 {
+  width: 500px;
+  height: 250px;
+  background-image: url(https://64.media.tumblr.com/8266adeb7c760cb69eadf72d4d8f58f2/8f6891fcef8dd080-c2/s1280x1920/eb38616cd4960092134c87bb108f3266bd3476da.jpg);
+  background-position: center;
+  background-size: cover;
+  margin-top: -26px;
+  margin-left: -26px;
+  background-color: var(--colorgrupo);
+  background-blend-mode: multiply;
+  
+}
+
+
+.virgo .body {
+  font: 10px/5px open sans;
+  text-align:justify;
+  color: #424242;
+  margin-top: 50px;
+  padding: 40px;
+  width: 270px;
+  margin-left: 50px;
+  line-height: 180%;
+ 
+}
+
+.virgo b {
+  font: bold open sans;
+  color: var(--colorgrupo);
+  font-size: 13px;
+}
+
+.virgo i2 {
+  color: var(--colorgrupo);
+ font-family: open Sans;
+ font-size: 11px;
+ border-bottom: 1px dotted var(--colorgrupo);
+ font-style: italic;
+ }
+
+</style>[/dohtml]
